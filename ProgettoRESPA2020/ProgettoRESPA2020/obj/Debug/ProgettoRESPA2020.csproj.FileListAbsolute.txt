@@ -1,0 +1,98 @@
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\Martina\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.dll
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.xml
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Finito\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CopyComplete
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.dll
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.xml
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CopyComplete
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.dll
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.xml
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CopyComplete
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.dll
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.xml
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CopyComplete
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.dll
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.xml
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CopyComplete
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\Martina\Desktop\Progetto RESPA Modifica\ProgettoRESPA2020 - 6-10-2020 - Copia\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe.config
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\bin\Debug\ProgettoRESPA2020.pdb
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.dll
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\bin\Debug\TwinCAT.Ads.xml
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csprojAssemblyReference.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Form1.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.Properties.Resources.resources
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.GenerateResource.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CoreCompileInputs.cache
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.csproj.CopyComplete
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.exe
+C:\Users\giu.sigona1\Desktop\ProgettoRESPA2020 (ultima modifica)\ProgettoRESPA2020\obj\Debug\ProgettoRESPA2020.pdb
