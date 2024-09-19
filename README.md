@@ -1,0 +1,1 @@
+Progetto didattico di simulazione, controllo e supervisione di un processo industriale a scelta. Programmazione tramite software industriali per PLC e sistemi SCADA (Visual Studio C#, TwinCAT by Beckhoff e iFIX)
